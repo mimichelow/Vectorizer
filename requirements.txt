@@ -1,0 +1,5 @@
+drawsvg==2.1.1
+Pillow==9.5.0
+pip==23.1.2
+setuptools==65.5.1
+wheel==0.38.4
